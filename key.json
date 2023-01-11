@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "private-english-mentor-367820",
+  "private_key_id": "873a09656a8c05947ed7a0bda818f5edc149f1de",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCZCwy+Fat65wGp\nTJUFTQr0kjwP7xAvS15fpywVceRouT+Wwrcw7SP/CBd1zniGOnwzcDf8LuV4gjSE\nkNU/xz6lY9LmuiO0onooOIGNUY8hQ47Ln+YEzvw7d1ejaJO6mPNZgASSsEuux1Y+\ncsE+LDlm18o210CLhbfkdahMGcqKx08qxDchMizJg0TEq2quMZGtEQ4xNRRSdNby\nFBnkRUw2iymbtauPBcdvaQWF2OheTkixDOTlXW99x9YuVk9XqKXJOex3PK25S1mm\njlGIeJ1nBcgEBlY16dO8CHQe/YK7nkkwEvhk71bDl1ySBJBzpiHVIkKdkdSPL7lU\ncOLKoPUpAgMBAAECggEAAqBRiokDaW9hpEq5w26mJZqFUJYvAkrCLrTHEUKkM2Zb\naJ5Eh8DIBXo5cdZ2U8JY64aNVWTmH+5nEY/NMwQbp3mqLraqwnCn1T0b/wVzZfQb\ndRPUPgihxDD49mdG4rS5d1OWsIA5OkF2McnlFkiqvwCsugpxU3ua018wAUdPhhhc\n78/ThrBFdBV1dl0fBUt+FueUwBj/Hm7ttefCHnF/+AOeZxchCk7jH1zh2SQ+9B1J\n4nNdKqoSZlwQuh9F7SDua/jbmObRA8JRfpxdg2cwUSB2U4S3GqAYxew4K7Ujs+kK\nFltIb8SPhUiISIB/RKGyHFCLF0gP/bs7pwCS4054MQKBgQDMWwcoN70VPoY/pQny\nsRI5QKuTvT6BU/5m+/l0NWguk4wj07A08/kc9vW8tvj4cGtC32FxBTaHBzsmQwwu\n2/sjoh1LdGjwIeleJUf44AYlEakxts2AdyoUB8SB/2gsONb8CAZzp1UP637RRXiG\n6gUl3dnCLGpXwi32PlEm4DQLUQKBgQC/uFFloto2nn/P7ThFutJgGddYGMwoMaP1\nlyHIm2cUlc1VHsUn+SnC+CaGSqgINCt3d2oJ72fpIhPosuwapNrEYxYDCF3nSaCx\nruPPgYEwBGAKbTHdQ8hHmH7+sCwqBqoNIV0BPlQvmrVsiFJikbCFmGH9Tyx9gI6b\nZYQPJGsmWQKBgG9PMcHNQne828D080s2+dcni41oahBloM+VdhW/NWURRycImhTt\nwwXs2oMVIt2n1jTRmbDHByFbZfN8V7l6ZvvMxKoh2TrbLdLy+ZXs6Evup7sFeD/+\nKHRKmtW4OZTEzQzwjhsWzPVj72qrrW/HLlCm24KxUKdGhGR5IxjKzG5RAoGAXbkX\nYZ45GtZlGRqYlc38pio70b9dnpCV3KtjQpRl0fRhiqkeLKprtfplquS4PDp0vVRN\nLEoy/A9CuFEvht7sa3EdA6KFdVnTCsm6aGig5P5ejPpQlCBculNcUdmB3ZGgdAbJ\nVqBHu3XgFwyVacZbCxQxYwnfcAL2tBTueBCPqRECgYEAgf3gLUdU9/VBKTKKUbUe\nH4nfSuGGx4kjupvk1ptGiVxZQFT/+Gqho3KAS/07meK5mXdGyTAfHz2bEO0A0HwB\nWqGzWArJW66qy3SopAQIFfM0HPDH2+zoSY5W/lPXiz/tGDXPuCwzHXSiN0trdCRg\n8sxqqArtCpxvzzmvOGSPPy8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "translation-quickstart@private-english-mentor-367820.iam.gserviceaccount.com",
+  "client_id": "103795278218783109931",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/translation-quickstart%40private-english-mentor-367820.iam.gserviceaccount.com"
+}
